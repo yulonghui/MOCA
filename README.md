@@ -9,6 +9,12 @@ pip install -r requirements.txt
 + Use `./utils/main.py` to run experiments.
 + Use argument `--load_best_args` to use the best hyperparameters from the paper.
 
+## TODO:
+- [x] Release code!
+- [x] Bash Arguments!
+- [ ] The code is still dirty and we'll sort it out soon.
+- [ ] 2D Visualization code and Gradients Analysis code.
+
 ## Examples
 For reproducing the results of our MOCA-Gaussian on Cifar-100, run:
 ```bash
